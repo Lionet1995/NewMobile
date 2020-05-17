@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6204"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PinView">
+            <connections>
+                <outlet property="pinView" destination="1" id="name-outlet-1"/>
+                <outlet property="Button1" destination="6483" id="name-outlet-6483"/>
+                <outlet property="Button2" destination="6487" id="name-outlet-6487"/>
+                <outlet property="Button3" destination="6489" id="name-outlet-6489"/>
+                <outlet property="Button4" destination="20305" id="name-outlet-20305"/>
+                <outlet property="Button5" destination="20326" id="name-outlet-20326"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <point key="canvasLocation" x="67" y="-37"/>
+            <connections>
+                <outlet property="Button2" destination="5472" id="name-outlet-5472"/>
+                <outlet property="Button3" destination="5473" id="name-outlet-5473"/>
+                <outlet property="Button4" destination="5474" id="name-outlet-5474"/>
+                <outlet property="Button5" destination="5475" id="name-outlet-5475"/>
+                <outlet property="Button1" destination="5471" id="name-outlet-5471"/>
+            </connections>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="RatingPin1">
+                    <integer key="value" value="0"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="6483" translatesAutoresizingMaskIntoConstraints="NO">
+                    <rect key="frame" x="13" y="143" width="59" height="57"/>
+                    <state key="normal" title="Button" image="appleShit_empty"/>
+                    <constraints>
+                        <constraint id="13573" firstAttribute="height" constant="57"/>
+                        <constraint id="13697" firstAttribute="width" constant="59"/>
+                        <constraint id="13844" firstAttribute="width" secondItem="6483" secondAttribute="height" multiplier="59:57"/>
+                    </constraints>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="6487" translatesAutoresizingMaskIntoConstraints="NO">
+                    <rect key="frame" x="77" y="143" width="62" height="57"/>
+                    <state key="normal" title="Button" image="appleShit_empty"/>
+                    <constraints>
+                        <constraint id="14247" firstAttribute="height" constant="57"/>
+                        <constraint id="14256" firstAttribute="width" constant="62"/>
+                        <constraint id="14556" firstAttribute="width" secondItem="6487" secondAttribute="height" multiplier="62:57"/>
+                    </constraints>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="6489" translatesAutoresizingMaskIntoConstraints="NO">
+                    <rect key="frame" x="144" y="143" width="65" height="57"/>
+                    <state key="normal" title="Button" image="appleShit_empty"/>
+                    <constraints>
+                        <constraint id="14611" firstAttribute="width" constant="65"/>
+                        <constraint id="14628" firstAttribute="height" constant="57"/>
+                    </constraints>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="20305" translatesAutoresizingMaskIntoConstraints="NO">
+                    <rect key="frame" x="214" y="143" width="65" height="57"/>
+                    <state key="normal" title="Button" image="appleShit_empty"/>
+                    <constraints>
+                        <constraint id="20306" firstAttribute="width" constant="65"/>
+                        <constraint id="20307" firstAttribute="height" constant="57"/>
+                    </constraints>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="20326" translatesAutoresizingMaskIntoConstraints="NO">
+                    <rect key="frame" x="284" y="143" width="65" height="57"/>
+                    <state key="normal" title="Button" image="appleShit_empty"/>
+                    <constraints>
+                        <constraint id="20327" firstAttribute="width" constant="65"/>
+                        <constraint id="20328" firstAttribute="height" constant="57"/>
+                    </constraints>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint id="11976" firstItem="6483" firstAttribute="top" secondItem="1" secondAttribute="topMargin" constant="135"/>
+                <constraint id="11981" firstAttribute="bottomMargin" secondItem="6483" secondAttribute="bottom" constant="459"/>
+                <constraint id="11986" firstItem="6483" firstAttribute="leading" secondItem="1" secondAttribute="leadingMargin" constant="5"/>
+                <constraint id="12365" firstItem="6487" firstAttribute="top" secondItem="1" secondAttribute="topMargin" constant="135"/>
+                <constraint id="12378" firstAttribute="bottomMargin" secondItem="6487" secondAttribute="bottom" constant="459"/>
+                <constraint id="14308" firstItem="6487" firstAttribute="leading" secondItem="6483" secondAttribute="trailing" constant="5"/>
+                <constraint id="14528" firstItem="6489" firstAttribute="leading" secondItem="6487" secondAttribute="trailing" constant="5"/>
+                <constraint id="14676" firstItem="6489" firstAttribute="top" secondItem="1" secondAttribute="topMargin" constant="135"/>
+                <constraint id="14689" firstAttribute="bottomMargin" secondItem="6489" secondAttribute="bottom" constant="459"/>
+                <constraint id="20787" firstItem="20305" firstAttribute="leading" secondItem="6489" secondAttribute="trailing" constant="5"/>
+                <constraint id="20811" firstItem="20326" firstAttribute="leading" secondItem="20305" secondAttribute="trailing" constant="5"/>
+                <constraint id="20835" firstItem="20305" firstAttribute="top" secondItem="1" secondAttribute="topMargin" constant="135"/>
+                <constraint id="20858" firstAttribute="bottomMargin" secondItem="20305" secondAttribute="bottom" constant="459"/>
+                <constraint id="21055" firstAttribute="trailingMargin" secondItem="20326" secondAttribute="trailing" constant="18"/>
+                <constraint id="21068" firstItem="20326" firstAttribute="top" secondItem="1" secondAttribute="topMargin" constant="135"/>
+                <constraint id="21081" firstAttribute="bottomMargin" secondItem="20326" secondAttribute="bottom" constant="459"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="appleShit_empty" width="313" height="397"/>
+    </resources>
+</document>

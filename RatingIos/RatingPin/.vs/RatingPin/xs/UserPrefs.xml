@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C16A7D73-8845-4511-8990-30E7BBE24A66}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RatingPin/PinView.xib">
+    <Files>
+      <File FileName="RatingPin/Main.storyboard" />
+      <File FileName="RatingPin/PinView.xib" />
+      <File FileName="RatingPin/PinView.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RatingPin" expanded="True" selected="True">
+            <Node name="RatingPin" expanded="True">
+              <Node name="PinView.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RatingPin PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+</Properties>

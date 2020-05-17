@@ -1,0 +1,14 @@
+/Users/andrey/Projects/RatingPin/RatingPin/bin/iPhoneSimulator/Debug/RatingPin.exe
+/Users/andrey/Projects/RatingPin/RatingPin/bin/iPhoneSimulator/Debug/RatingPin.pdb
+/Users/andrey/Projects/RatingPin/RatingPin/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/andrey/Projects/RatingPin/RatingPin/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/actool/_PartialAppManifest.items
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/coremlc/_PartialAppManifest.items
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/device-builds/iphone 8 plus-13.4/optimized/
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/RatingPin.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/RatingPin.csproj.CopyComplete
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/RatingPin.exe
+/Users/andrey/Projects/RatingPin/RatingPin/obj/iPhoneSimulator/Debug/RatingPin.pdb
