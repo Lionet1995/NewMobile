@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="DevEducation.Views.LessonListPage" BackgroundColor="Beige">
+    <StackLayout>
+        <Button Text="Создать новый урок" Command="{Binding CreateLessonCommand}"/>
+        <RefreshView Command="{Binding LoadLessonsCommand}">
+            <ListView x:Name="lessonList" ItemsSource="{Binding Lessons}"
+                SelectedItem="{Binding SelectedLesson, Mode=TwoWay}" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout>
+                                    <Label Text="{Binding Date}" FontSize="Small"/>
+                                    <Label Text="{Binding Hometask}" FontSize="Small"/>
+                                    <Label Text="{Binding Videos}" FontSize="Small"/>
+                                    <Label Text="{Binding ToRead}" FontSize="Small"/>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </RefreshView>
+    </StackLayout>
+</ContentPage>

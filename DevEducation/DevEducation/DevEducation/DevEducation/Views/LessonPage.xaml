@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="DevEducation.Views.LessonPage" Title="Новый урок" BackgroundColor="Beige">
+    <StackLayout>
+        <StackLayout x:Name="LessonStack">
+            <Label Text="Дата урока" />
+            <Entry Text="{Binding Date}" FontSize="Medium" />
+            <Label Text="Домашнее задание" />
+            <Entry Text="{Binding Hometask}" FontSize="Medium" />
+            <Label Text="Видео-уроки" />
+            <Entry Text="{Binding Videos}" FontSize="Medium" />
+            <Label Text="Материал для чтения" />
+            <Entry Text="{Binding ToRead}" FontSize="Medium" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Button Text="Сохранить" Command="{Binding ListViewModel.SaveLessonCommand}" CommandParameter="{Binding}" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

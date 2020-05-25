@@ -1,0 +1,35 @@
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\bin\Debug\netstandard2.0\DevEducation.deps.json
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\bin\Debug\netstandard2.0\DevEducation.dll
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\bin\Debug\netstandard2.0\ref\DevEducation.dll
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\bin\Debug\netstandard2.0\DevEducation.pdb
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\Views\GroupPage.xaml.g.cs
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.csproj.CoreCompileInputs.cache
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.AssemblyInfoInputs.cache
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.AssemblyInfo.cs
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.dll
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\ref\DevEducation.dll
+C:\Users\nikso\source\repos\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.pdb
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\bin\Debug\netstandard2.0\DevEducation.deps.json
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\bin\Debug\netstandard2.0\DevEducation.dll
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\bin\Debug\netstandard2.0\ref\DevEducation.dll
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\bin\Debug\netstandard2.0\DevEducation.pdb
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\Views\GroupListPage.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\Views\LessonListPage.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\Views\LessonPage.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\RefitStubs.g.cs
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.dll
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\ref\DevEducation.dll
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.pdb
+C:\Users\User\Downloads\Telegram Desktop\DevEducation\DevEducation\DevEducation\DevEducation\obj\Debug\netstandard2.0\DevEducation.csprojAssemblyReference.cache
